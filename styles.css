@@ -3,7 +3,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 body {
-    background-color:rgb(74, 83, 58)
+    background-color:rgb(74, 83, 58);
 }
 h1 {
     color: black;
@@ -25,9 +25,13 @@ div.box {
     padding: 15px;
     margin: 24px auto;
     border: 8px double black;
-    background-color: rgb(95, 105, 78);
+    background-color:rgb(86, 96, 69);
     text-align: center;
 }
+a {
+    color: rgb(206, 128, 170);
+    text-decoration: none;
+  }
 div.boxNB {
     height: 300px;
     width: 500px;
