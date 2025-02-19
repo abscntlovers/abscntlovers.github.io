@@ -15,6 +15,7 @@ div.titlebox {
     padding: 0px;
     margin: 50px auto;
     border: 16px double black;
+    border-radius: 15px;
     background-color: rgb(95, 105, 78);
     text-align: center;
     font-size: 35pt;
@@ -25,6 +26,7 @@ div.box {
     padding: 15px;
     margin: 24px auto;
     border: 8px double black;
+    border-radius: 15px;
     background-color:rgb(86, 96, 69);
     text-align: center;
 }
@@ -47,4 +49,5 @@ div.container {
     background-color: rgb(95, 105, 78);
     text-align: center;
     margin: 50px;
+    border-radius: 5px;
 }
