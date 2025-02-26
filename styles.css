@@ -1,9 +1,9 @@
+@font-face {
+    font-family: 'Eccentric';
+    src: url("Eccentric.otf") format("opentype");
+}
 * {
     text-align: center;
-    @font-face {
-        font-family: 'Eccentric';
-        src: url(Eccentric.otf);
-    }
     font-family:'Eccentric';
 }
 body {
